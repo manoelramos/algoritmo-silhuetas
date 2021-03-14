@@ -7,4 +7,4 @@ Caso, queira fazer os inputs manualmente, você pode abrir o arquivo `script-jsf
 
 Foi realizado, ao todo, 17 testes unitários para validação das funções auxiliares, com 100% de coverage.
 
-Ao rodar o projeto, os resultados serão apresentados no log. Foi-se utilizado o console.log para apresentação dos resultados.
+Ao rodar o projeto, os resultados serão apresentados no `log`. Foi-se utilizado o `console.log` para apresentação dos resultados.
